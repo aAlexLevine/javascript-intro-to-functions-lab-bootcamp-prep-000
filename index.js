@@ -19,6 +19,6 @@ function sayHiToGrandma(string) {
 
 }
 function sayHiToGrandma(string) {
-  if logshout === uppercase
+  if  logshout(string) === uppercase
   return "YES INDEED!"
 }
